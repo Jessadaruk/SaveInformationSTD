@@ -1,4 +1,4 @@
-![ตัวอย่า]()
+![ตัวอย่า](https://github.com/Jessadaruk/SaveInformationSTD/blob/main/Student%20information/Image/Home.png)
 # ระบบจัดการข้อมูลนักศึกษา
 
 ## คำอธิบาย
