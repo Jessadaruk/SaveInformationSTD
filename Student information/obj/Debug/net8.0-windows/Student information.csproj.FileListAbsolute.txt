@@ -1,0 +1,35 @@
+D:\Student information\Student information\obj\Debug\net8.0-windows\Student information.csproj.GenerateResource.cache
+D:\Student information\Student information\obj\Debug\net8.0-windows\Student information.GeneratedMSBuildEditorConfig.editorconfig
+D:\Student information\Student information\obj\Debug\net8.0-windows\Student information.AssemblyInfoInputs.cache
+D:\Student information\Student information\obj\Debug\net8.0-windows\Student information.AssemblyInfo.cs
+D:\Student information\Student information\obj\Debug\net8.0-windows\Student information.csproj.CoreCompileInputs.cache
+D:\Student information\Student information\bin\Debug\net8.0-windows\Student information.exe
+D:\Student information\Student information\bin\Debug\net8.0-windows\Student information.deps.json
+D:\Student information\Student information\bin\Debug\net8.0-windows\Student information.runtimeconfig.json
+D:\Student information\Student information\bin\Debug\net8.0-windows\Student information.dll
+D:\Student information\Student information\bin\Debug\net8.0-windows\Student information.pdb
+D:\Student information\Student information\obj\Debug\net8.0-windows\Student information.dll
+D:\Student information\Student information\obj\Debug\net8.0-windows\refint\Student information.dll
+D:\Student information\Student information\obj\Debug\net8.0-windows\Student information.pdb
+D:\Student information\Student information\obj\Debug\net8.0-windows\Student information.genruntimeconfig.cache
+D:\Student information\Student information\obj\Debug\net8.0-windows\ref\Student information.dll
+D:\Student information\Student information\obj\Debug\net8.0-windows\Student_information.AdvisorForm.resources
+D:\Student information\Student information\obj\Debug\net8.0-windows\Student_information.None.resources
+D:\Data\Student information (NewWorld)\Student information\Student information\bin\Debug\net8.0-windows\Student information.exe
+D:\Data\Student information (NewWorld)\Student information\Student information\bin\Debug\net8.0-windows\Student information.deps.json
+D:\Data\Student information (NewWorld)\Student information\Student information\bin\Debug\net8.0-windows\Student information.runtimeconfig.json
+D:\Data\Student information (NewWorld)\Student information\Student information\bin\Debug\net8.0-windows\Student information.dll
+D:\Data\Student information (NewWorld)\Student information\Student information\bin\Debug\net8.0-windows\Student information.pdb
+D:\Data\Student information (NewWorld)\Student information\Student information\obj\Debug\net8.0-windows\Student_information.AdvisorForm.resources
+D:\Data\Student information (NewWorld)\Student information\Student information\obj\Debug\net8.0-windows\Student information.csproj.GenerateResource.cache
+D:\Data\Student information (NewWorld)\Student information\Student information\obj\Debug\net8.0-windows\Student information.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Student information (NewWorld)\Student information\Student information\obj\Debug\net8.0-windows\Student information.AssemblyInfoInputs.cache
+D:\Data\Student information (NewWorld)\Student information\Student information\obj\Debug\net8.0-windows\Student information.AssemblyInfo.cs
+D:\Data\Student information (NewWorld)\Student information\Student information\obj\Debug\net8.0-windows\Student information.csproj.CoreCompileInputs.cache
+D:\Data\Student information (NewWorld)\Student information\Student information\obj\Debug\net8.0-windows\Student information.dll
+D:\Data\Student information (NewWorld)\Student information\Student information\obj\Debug\net8.0-windows\refint\Student information.dll
+D:\Data\Student information (NewWorld)\Student information\Student information\obj\Debug\net8.0-windows\Student information.pdb
+D:\Data\Student information (NewWorld)\Student information\Student information\obj\Debug\net8.0-windows\Student information.genruntimeconfig.cache
+D:\Data\Student information (NewWorld)\Student information\Student information\obj\Debug\net8.0-windows\ref\Student information.dll
+D:\Data\Student information (NewWorld)\Student information\Student information\bin\Debug\net8.0-windows\Image\Hello.png
+D:\Data\Student information (NewWorld)\Student information\Student information\obj\Debug\net8.0-windows\Student_information.ShowPic.resources
